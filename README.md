@@ -1,5 +1,6 @@
 **Project overview**
 This project progress on the Basic vulnerability Assesment for a Live website using standard security tools. The objective was to identify common web security issues, analyze potential risks, and document findings in a professional security report.It serves a dual purpose by splitting its findings into a high-level executive summary for business stakeholders to assess overall risk, and an in-depth technical breakdown for development teams to reproduce and patch the specific code or server vulnerabilities.Ultimately, the document provides an actionable remediation roadmap and compliance mapping against industry standards like the OWASP Top 10, delivering a clear blueprint to strengthen the website's defense posture before malicious actors can exploit the gaps. 
-
+**tools used**
+NMAP,OWASP,Browser dev tools,Canva 
 **Disclaimer**
 This project was created strictly for educational and ethical cybersecurity learning purposes. All testing was performed using passive assessment techniques without exploiting or damaging the target website.
